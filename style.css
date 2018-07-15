@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.blok {
+	display: block;
+	width:  calc(25% - 50px);
+	margin: 25px;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
